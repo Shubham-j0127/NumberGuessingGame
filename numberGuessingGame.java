@@ -31,7 +31,7 @@ public class numberGuessingGame {
 */
 
 
-//This is the code improved by Ai not much changes (mentioned below with commnets
+//This is the code improved by Ai not much changes (mentioned below with comments
 public class numberGuessingGame {
 
     public static void main(String[] args) { //main method public and string args because standard method
